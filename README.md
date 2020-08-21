@@ -1,5 +1,5 @@
 ### Hello, I'm Andriy Diduh. Software Engineer & I build SaaS 👋
-# I build web software from the ground up, from start to finish, with specific strength in User Iterface.
+# I build web software from the ground up, from start to finish, with specific strength in User Interface.
 Here is what I build as Engineer:
 - 🔭 Bespoke Web Software Development → Node.js
 - 🌱 Bespoke High-End Website Development → JAMStack, Gatsby
