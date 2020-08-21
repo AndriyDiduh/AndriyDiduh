@@ -8,6 +8,9 @@ Here is what I build as Engineer:
 - 💬 Static Web Page to APIs Integration → Auth0, GraphQL API, REST API
 - 📫 Static Web Page Development → HTML5, CSS3, Bootstrap
 
+
+<a href="https://andriydiduh.netlify.app"><img src="https://i.ibb.co/ncpZLM0/guild-logo-2-white-bg-github-button.png" align="left" width="300" /></a>
+
 <!--
 **AndriyDiduh/AndriyDiduh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
