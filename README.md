@@ -1,14 +1,9 @@
-# Hello <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Andriy Diduh!](https://andriydiduh.netlify.app)
+# Hi, I'm [Andriy](https://andriydiduh.netlify.app) <img src="https://github.com/AndriyDiduh/AndriyDiduh/master/wave.gif" width="40px"> 
 [<img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/head-github-banner-andriy-diduh.png">](https://andriydiduh.netlify.app)
 
-# In simple, I build web software from the ground up, from start to finish, with specific strength in UI.
-Here is what I do as Engineer:
-- 🔭 Bespoke Web Software Development → Node.js
-- 🌱 Bespoke High-End Website Development → JAMStack, Gatsby
-- 👯 SaaS MVP & Prototype Development → Node.js, React
-- 🤔 Business Logic & API Development → Node.js, Express.js
-- 💬 Static Web Page to APIs Integration → Auth0, GraphQL API, REST API
-- 📫 Static Web Page Development → HTML5, CSS3, Bootstrap
+I'm a software engineer starting from 2010 with focuses on SaaS, UI, API of high complexity and experience in lifting startups from #0 phase.
+<strong>I build web software from the ground up, from start to finish, with specific strength in UI.</strong>
+I like to search 🔭 for hardest industry problems and solve them, I am in to JAM Stack :doughnut: [static web page + JavaScript logic + APIs] and ofcourse I like to build :hospital: web SaaS. 
 
 # My skills
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,18 +23,3 @@ Here is what I do as Engineer:
 
 # Live projects :heart:
 <a href="https://andriydiduh.netlify.app"><img src="https://i.ibb.co/ncpZLM0/guild-logo-2-white-bg-github-button.png" width="300" /></a>
-
-<!--
-**AndriyDiduh/AndriyDiduh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
