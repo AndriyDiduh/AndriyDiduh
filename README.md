@@ -1,4 +1,4 @@
-# Hi, I'm [Andriy](https://andriydiduh.netlify.app) <img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/wave.gif" width="30px"> 
+# Hi, I'm Andriy <img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/wave.gif" width="30px"> 
 [<img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/head-github-banner-2-andriy-diduh.png">](https://andriydiduh.netlify.app)
 
 I'm a software engineer starting from 2010 with focuses on SaaS, UI, API of high complexity and experience in lifting startups from #0 phase.
