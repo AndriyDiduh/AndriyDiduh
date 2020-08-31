@@ -18,6 +18,6 @@ I like to search 🔭 for hardest industry problems and solve them, I am in to J
 [and lot more...](https://andriydiduh.netlify.app/hard-skills/)
 
 ## Live projects :heart:
-- <a href="https://booking-app-project.netlify.app/">Booking APP</a> → personal ongoing demo project <img src="https://booking-app-project.netlify.app/components/utils/Copyright/android-icon-192x192.png" width="25" /> .
-- <a href="https://rehab-my-patient-project.netlify.app/"> Static marketing website</a> → prototype for UK based business <img src="https://rehab-my-patient-project.netlify.app/components/utils/Copyright/android-icon-192x192.png" width="20" /> .
+- <a href="https://booking-app-project.netlify.app/" target="_blank">Booking APP</a> → personal ongoing demo project <img src="https://booking-app-project.netlify.app/components/utils/Copyright/android-icon-192x192.png" width="25" /> .
+- <a href="https://rehab-my-patient-project.netlify.app/" target="_blank"> Static marketing website</a> → prototype for UK based business <img src="https://rehab-my-patient-project.netlify.app/components/utils/Copyright/android-icon-192x192.png" width="20" /> .
 <br />
