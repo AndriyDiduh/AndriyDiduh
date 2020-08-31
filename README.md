@@ -1,5 +1,5 @@
 # Hello <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Andriy Diduh!](https://andriydiduh.netlify.app)
-[<img src="head-github-banner-andriy-diduh.png">](https://andriydiduh.netlify.app)
+[<img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/head-github-banner-andriy-diduh.png">](https://andriydiduh.netlify.app)
 
 # In simple, I build web software from the ground up, from start to finish, with specific strength in UI.
 Here is what I do as Engineer:
