@@ -18,7 +18,6 @@ I like to search 🔭 for hardest industry problems and solve them, I am in to J
 [and lot more...](https://andriydiduh.netlify.app/hard-skills/)
 
 ## Live projects :heart:
-<a href="https://booking-app-project.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/booking_project_launch_btn_1_github_andriy_diduh.png" width="300"/></a>
-<br />
-<a href="https://rehab-my-patient-project.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/rehab_my_patient_project_launch_btn_1_github_andriy_diduh.png" width="300"/></a>
+<a href="https://booking-app-project.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/booking_project_launch_btn_2_github_andriy_diduh.png" width="300"/></a> 
+<a href="https://rehab-my-patient-project.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/rehab_my_patient_project_launch_btn_2_github_andriy_diduh.png" width="300"/></a>
 <br />
