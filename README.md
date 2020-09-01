@@ -13,9 +13,7 @@ I like to search 🔭 for hardest industry problems and solve them, I am in to J
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-
-[and lot more...](https://andriydiduh.netlify.app/hard-skills/)
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> [and lot more...](https://andriydiduh.netlify.app/hard-skills/)
 
 ## Live projects :heart:
 <a href="https://booking-app-project.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/booking_project_launch_btn_2_github_andriy_diduh.png" width="300"/></a> 
