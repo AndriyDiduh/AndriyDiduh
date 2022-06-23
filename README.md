@@ -1,4 +1,4 @@
-# Hi, I'm Andriy <img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/wave.gif" width="30px"> 
+# Hi, I'm Andriy <img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/wave.gif" width="40">
 [<img src="https://raw.githubusercontent.com/AndriyDiduh/AndriyDiduh/master/head-github-banner-3-silver-round-corners-andriy-diduh.png">](https://andriydiduh.com)
 
 I'm a software engineer starting from 2010 with focuses on SaaS, UI, API of high complexity and experience in lifting startups from #0 phase.
